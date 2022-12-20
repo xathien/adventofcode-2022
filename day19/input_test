@@ -1,0 +1,4 @@
+[
+  { ore: 4, clay: 2, obsidian: [3, 14], geode: [2, 7] },
+  { ore: 2, clay: 3, obsidian: [3, 8], geode: [3, 12] },
+]
